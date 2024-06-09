@@ -1,0 +1,14 @@
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\bin\Debug\net8.0\MainInterpreter.exe
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\bin\Debug\net8.0\MainInterpreter.deps.json
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\bin\Debug\net8.0\MainInterpreter.runtimeconfig.json
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\bin\Debug\net8.0\MainInterpreter.dll
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\bin\Debug\net8.0\MainInterpreter.pdb
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\obj\Debug\net8.0\MainInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\obj\Debug\net8.0\MainInterpreter.AssemblyInfoInputs.cache
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\obj\Debug\net8.0\MainInterpreter.AssemblyInfo.cs
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\obj\Debug\net8.0\MainInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\obj\Debug\net8.0\MainInterpreter.dll
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\obj\Debug\net8.0\refint\MainInterpreter.dll
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\obj\Debug\net8.0\MainInterpreter.pdb
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\obj\Debug\net8.0\MainInterpreter.genruntimeconfig.cache
+C:\Users\Melissamelsantos\Documents\Faculdade\MATÉRIAS\Compiladores\Interpretador\MainInterpreter\obj\Debug\net8.0\ref\MainInterpreter.dll
