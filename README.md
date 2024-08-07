@@ -61,9 +61,37 @@
         >> 2
     </pre>
     <p> This is a small example of how the interpreter works. </p>
+    <p> In this repository we also have the LL(1) syntactic analyzer code </p>
+    <pre>
+        namespace Analisador{
+            public class LL1Parser{
+                private string input = "";
+                private int indexOfInput = -1;
+                private ErrorHandler error;
+                private Stack<string> pilha = new Stack<string>();
+                private string[][] tabela;
+                private string[] variaveis = { "G", "E", "K", "T", "H", "F" };
+                private string[] terminais = { "a", "+", "*", "(", ")", "$" };
+                public LL1Parser(string input, string tabelaArq){
+                    this.input = input;
+                    this.tabela = leTabela(tabelaArq);
+                    error = new ErrorHandler();
+                }
+                private string leArquivo(string inputArq){
+                    using (StreamReader sr = new StreamReader(inputArq)){
+                        return sr.ReadToEnd();
+                    }
+        ...
+    </pre>
+    <p> The Parser receives a CSV table that contains the grammar used to perform the analysis.In addition, a step-by-step guide to using the table is presented, as well as    its conclusion and rejection. </p>
+    <pre> You can do the test with inputs like "a+a*a" or "a*a", things like that. </pre>
     <p> <h3> Link to enter the Interpreter directory: </h3></p>
     <ul>
         <li><a href="https://github.com/Melissa-Francielle/Compilers_projects/tree/main/Interpretador/MainInterpreter">Interpreter and Classes</a></li>
+    </ul>
+    <p> <h3> Link to enter the Parser LL(1) directory: </h3></p>
+    <ul>
+         <li><a href="https://github.com/Melissa-Francielle/Compilers_projects/tree/main/Interpretador/MainInterpreter">Parser LL(1) and Classes</a></li>
     </ul>
 </body>
 </html>
