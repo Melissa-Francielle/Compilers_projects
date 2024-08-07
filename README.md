@@ -91,7 +91,7 @@
     </ul>
     <p> <h3> Link to enter the Parser LL(1) directory: </h3></p>
     <ul>
-         <li><a href="https://github.com/Melissa-Francielle/Compilers_projects/tree/main/Interpretador/MainInterpreter">Parser LL(1) and Classes</a></li>
+         <li><a href="https://github.com/Melissa-Francielle/Compilers_projects/tree/main/Analisador_Sintático/AnalisadorSintatico">Parser LL(1) and Classes</a></li>
     </ul>
 </body>
 </html>
